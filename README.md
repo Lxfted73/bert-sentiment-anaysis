@@ -35,4 +35,3 @@ This project uses Hugging Face's BERT (`bert-base-uncased`) to perform sentiment
    ```bash
    git clone https://github.com/<your-username>/<your-repo>.git
    cd <your-repo>cd /Users/thebowofapollo/PycharmProjects/bert-sentiment-analysis
-ls -l
